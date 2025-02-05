@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: Stencil Std, fantasy;
+	font: fantasy;
 }
 .homePage {
 	background: #3B5736;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: ##DEBFEA;
+	background: #69806D;
 	margin: 0px;
 	float: left;
 	width: 100%;
