@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: fantasy;
+	font: Blippo, fantasy;
 }
 .homePage {
 	background: #3B5736;
@@ -12,7 +12,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #B8EEB2;
+	background: #BBE3BE;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
