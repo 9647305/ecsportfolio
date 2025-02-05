@@ -5,14 +5,14 @@ body {
 	font: Stencil Std, fantasy;
 }
 .homePage {
-	background: ##F4C0B6;
+	background: ##3B5736;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: ##677570;
+	background: ##B8EEB2;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: ##D6D6F2;
+	background: ##527D4D;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: ##DEBFEA;
 	margin: 0px;
 	float: left;
 	width: 100%;
